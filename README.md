@@ -1,4 +1,4 @@
-# 👋 Diego ☕
+# 👋 Hello I'm Diego ☕
 
 **Technology enthusiast and future systems engineer**
 
@@ -84,7 +84,7 @@ _(to be added soon)_
 # Spanish 🇪🇸
 ---
 
-# 👋 Diego ☕
+# 👋 Hola soy Diego ☕
 
 **Entusiasta de la tecnología y futuro ingeniero de sistemas**
 
