@@ -11,13 +11,12 @@ I’m especially interested in **backend development**, with a strong focus on *
 
 I’m currently aiming to learn and go deeper into:
 
-- Zig  
-- Docker  
-- PostgreSQL  
+- Rust
+- Docker    
 - Hexagonal Architecture  
 - GraalVM  
 - Java I/O  
-- Design patterns  
+- Design patterns 
 
 My goal is to build projects that can run properly on **Linux environments**, both **desktop** and **server**.
 
@@ -48,7 +47,7 @@ My goal is to build projects that can run properly on **Linux environments**, bo
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 - Docker Compose (basic usage)
-- PostgreSQL (learning)
+- PostgreSQL
 - Postman (basic request handling)
 - MySQL / MariaDB
 - SQLite
